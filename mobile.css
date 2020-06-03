@@ -1,0 +1,93 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.all
+{
+    background-image: url(tech.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1
+{
+    text-align: center;
+    margin-top: 100px;
+}
+#in{
+    margin-top: 130px;
+    width: 610px;
+    height: 450px;
+    background-color: #a26f6f;
+    align-content: center;
+    margin-left: 163px;
+    border-radius: 30px;
+    border: 2px solid black;
+}
+.fom
+{
+	margin: 30px;
+	text-align: center;
+	margin-left: 0px;
+	color: white;
+}
+.name
+{
+	margin: 20px;
+	width: 300px;
+    height: 29px;
+    border: 0.5px dashed;
+    border-radius: 10px;
+}
+.reg_no
+{
+	margin: 20px;
+	width: 300px;
+    height: 29px;
+    border: 0.5px dashed;
+    border-radius: 10px;
+}
+.sub
+{
+	margin: 20px;
+	margin-right: 23px;
+    margin-left: 20px;
+    width: 300px;
+    height: 29px;
+    border-radius: 10px;
+}
+.btch
+{
+	margin: 20px;
+	margin-right: 23px;
+    margin-left: 20px;
+    width: 300px;
+    height: 29px;
+    border-radius: 10px;
+}
+.btn
+{
+	width: 80px;
+    height: 35px;
+    border-radius: 9px;
+    border: 0.5px dashed;
+    cursor: pointer;
+}
+
+
+.foot
+{
+    margin-top: 144px;
+    border: 0.5px dashed;
+    background-color: #a26f6f;
+    width: 465px;
+    height: 21px;
+    /* text-align: center; */
+    /* float: none; */
+    margin-left: 253px;
+    border-radius: 10px;
+    color: white;
+}
